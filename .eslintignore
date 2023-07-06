@@ -1,0 +1,11 @@
+**/coverage/**
+**/node_modules/**
+dist/**
+build/**
+src/index.html
+blueprints/**
+src/config.js
+scripts/**
+next.config.js
+next-i18next.config.js
+jest.config.js

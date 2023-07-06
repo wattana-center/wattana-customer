@@ -1,0 +1,5 @@
+export * from './CommentHotel'
+export * from './DescriptionHotel'
+export * from './ReviewHotel'
+export * from './RoomHotel'
+export * from './TitleBooking'
